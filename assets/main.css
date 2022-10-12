@@ -1,0 +1,26 @@
+.main {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.main .container{
+    width: 60%;
+    margin: auto;
+}
+.video-side {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 50px;
+}
+.img-side{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+textarea{
+    resize:vertical;
+}
